@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "themillReactBrandTree",
+    "style": "scss",
+    "postcss": true
+  }
+}
